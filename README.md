@@ -16,19 +16,19 @@
 
 ### Known Languages / My Tools
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="HTML5" src="images/html5.png" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="HTML5" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/html5.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="CSS3" src="images/css.png" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="CSS3" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/css.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="JavaScript" src="images/js.png" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="JavaScript" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/jspng" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="PHP" src="images/php.png" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="PHP" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/php.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="MySQL" src="images/sql.png" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="MySQL" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/sql.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="Java" src="images/java.png">
+<img align="left" style="margin-left: 10px;" width="26x" alt="Java" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/java.png">
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="C++" src="images/c-plus.png" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="C++" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/c-plus.png" />
 
 <br>
 <br>
