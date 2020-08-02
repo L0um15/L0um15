@@ -20,7 +20,7 @@
 
 <img align="left" style="margin-left: 10px;" width="26x" alt="CSS3" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/css.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="JavaScript" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/jspng" />
+<img align="left" style="margin-left: 10px;" width="26x" alt="JavaScript" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/js.png" />
 
 <img align="left" style="margin-left: 10px;" width="26x" alt="PHP" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/php.png" />
 
