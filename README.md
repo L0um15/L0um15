@@ -7,7 +7,7 @@
 - 🌍 Everyday im learning more languages.
 - 🗺️ My native language is Polish.
 - 🎵 I Enjoy playing / listening music.
-- 😱 I also love to watch horror movies. My favourite is Halloween or Nightmare on Elm Street.
+- 😱 I also love to watch horror movies. My favourite is Halloween and Nightmare on Elm Street.
 - 🔓 I Enjoy contributing to open-source projects.
 - 😊 I must say that im a Linux Enthusiast.
 - 🤔 Im learning C# currently.
