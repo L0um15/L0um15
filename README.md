@@ -30,9 +30,6 @@
 
 <img align="left" style="margin-left: 10px;" width="26x" alt="C++" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/c-plus.png" />
 
-<br>
-<br>
-
 <img align="left" style="margin-left: 10px;" width="26x" alt="VSCode" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/vscode.png" />
 
 <img align="left" style="margin-left: 10px;" width="26x" alt="Intellij Idea" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/intellij.png" />
