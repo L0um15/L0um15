@@ -2,15 +2,13 @@
 
 ---
 
-## I am in the 4th grade of IT college
+## I am in the 4th grade of IT technical college
 - 🎂 Im 19 years old.
-- 🌍 Everyday im learning more languages.
 - 🗺️ My native language is Polish.
 - 🎵 I Enjoy playing / listening music.
 - 😱 I also love to watch horror movies. My favourite is Halloween and Nightmare on Elm Street.
 - 🔓 I Enjoy contributing to open-source projects.
 - 😊 I must say that im a Linux Enthusiast.
-- 🤔 Im learning C# currently.
 
 ---
 
@@ -30,7 +28,11 @@
 
 <img align="left" style="margin-left: 10px;" width="26x" alt="C++" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/c-plus.png" />
 
+<img align="left" style="margin-left: 10px;" width="26x" alt="CSharp" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/csharp.png" />
+
 <img align="left" style="margin-left: 10px;" width="26x" alt="VSCode" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/vscode.png" />
+
+<img align="left" style="margin-left: 10px;" width="26x" alt="VS" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/vs.png" />
 
 <img align="left" style="margin-left: 10px;" width="26x" alt="Intellij Idea" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/intellij.png" />
 
