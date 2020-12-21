@@ -9,7 +9,6 @@
 - 😱 I also love to watch horror movies. My favourite is Halloween and Nightmare on Elm Street.
 - 🔓 I Enjoy contributing to open-source projects.
 - 😊 I must say that im a Linux Enthusiast.
-- 🐍 Learning Python Currently
 
 ---
 
