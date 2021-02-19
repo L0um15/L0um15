@@ -1,48 +1,65 @@
-### Hi, im Damian known as L0um15
+<img style="border-radius: 8px; width:100%;" src="images/1.gif" />
 
----
+```csharp
+public class Portfolio
+{
+    private string[] knownLanguages = new[] {
+        "C#", "C++", "Java", "PHP", "SQL"
+    }
 
-## I am in the 4th grade of IT technical college
-- 🎂 Im 19 years old.
-- 🗺️ My native language is Polish.
-- 🎵 I Enjoy playing / listening music.
-- 😱 I also love to watch horror movies. My favourite is Halloween and Nightmare on Elm Street.
-- 🔓 I Enjoy contributing to open-source projects.
-- 😊 I must say that im a Linux Enthusiast.
+    private string[] myTools = new[] {
+        "VSC", "VS2019", "IntelliJ" ,"Firefox"
+    }
 
----
+    private static string[] aboutMe = new[] {
+        "Hi, Im Damian also known as L0um15",
+        "I am in the 4th grade of IT technical college \n",
+        " - 🎂 Im 19 years old",
+        " - 🗺️ My native language is Polish.",
+        " - 🎵 I Enjoy playing / listening music.",
+        " - 😱 I also love to watch horror movies. " +
+        "My favourite is Halloween and Nightmare on Elm Street.",
+        " - 🔓 I Enjoy contributing to open-source projects.",
+        " - 😊 I must say that im a Linux Enthusiast."
 
-### Known Languages / My Tools
+    }
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="HTML5" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/html5.png" />
+    public static void main(String[] args)
+    {
+        GithubUser me = new GithubUser("https://github.com/L0um15");
+        
+        for(int i = 0; i < aboutMe.Lenght; i++)
+            Console.Writeline(aboutMe[i]);
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="CSS3" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/css.png" />
+        for(int i = 0; i < knownLanguages.Lenght; i++){
+            Console.Write($"{knownLanguages[i]} ");
+        }
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="JavaScript" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/js.png" />
+        Console.Writeline();
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="PHP" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/php.png" />
+        for(int i = 0; i < myTools.Lenght; i++){
+            Console.Write($"{myTools[i]} ");
+        }
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="MySQL" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/sql.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="Java" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/java.png">
+        while(me.IsInspired()){
+            me.GoogleStuff();
+            me.ReadDocs();
+            me.WriteCode();
+            me.HaveFun();
+        }
+    }
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="C++" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/c-plus.png" />
+    public static GithubUser GetUser(string url)
+        => Github.Connect(url).GetInfo(); 
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="CSharp" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/csharp.png" />
+}
+```
+<p align=center>
+<img alt="L0um15 github stats" src="https://github-readme-stats.vercel.app/api?username=L0um15&theme=radical&show_icons=true&hide_border=true&hide_title=true" />
+</p>
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="VSCode" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/vscode.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="VS" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/vs.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="Intellij Idea" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/intellij.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="Atom Notepad" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/atom.png" />
 
-<img align="left" style="margin-left: 10px;" width="26x" alt="Firefox" src="https://raw.githubusercontent.com/L0um15/L0um15/master/images/firefox.png" />
-
-<br>
-<br>
-
----
-
-<img alt="L0um15 github stats" src="https://github-readme-stats.vercel.app/api?username=L0um15&theme=radical&show_icons=true&hide_border=true" />
