@@ -1,4 +1,4 @@
-<img style="border-radius: 8px; width:100%;" src="images/1.gif" />
+<img width=100% style="border-radius: 8px;" src="images/1.gif" />
 
 ```csharp
 public class Portfolio
