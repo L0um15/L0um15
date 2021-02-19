@@ -28,16 +28,16 @@ public class Portfolio
     {
         GithubUser me = new GithubUser("https://github.com/L0um15");
         
-        for(int i = 0; i < aboutMe.Lenght; i++)
+        for(int i = 0; i < aboutMe.Length; i++)
             Console.Writeline(aboutMe[i]);
 
-        for(int i = 0; i < knownLanguages.Lenght; i++){
+        for(int i = 0; i < knownLanguages.Length; i++){
             Console.Write($"{knownLanguages[i]} ");
         }
 
         Console.Writeline();
 
-        for(int i = 0; i < myTools.Lenght; i++){
+        for(int i = 0; i < myTools.Length; i++){
             Console.Write($"{myTools[i]} ");
         }
 
