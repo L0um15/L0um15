@@ -3,11 +3,11 @@
 ```csharp
 public class Portfolio
 {
-    private string[] knownLanguages = new[] {
+    private static string[] knownLanguages = new[] {
         "C#", "C++", "Java", "PHP", "SQL"
     }
 
-    private string[] myTools = new[] {
+    private static string[] myTools = new[] {
         "VSC", "VS2019", "IntelliJ" ,"Firefox"
     }
 
@@ -26,7 +26,7 @@ public class Portfolio
 
     public static void main(String[] args)
     {
-        GithubUser me = new GithubUser("https://github.com/L0um15");
+        GithubUser me = GetUser("https://github.com/L0um15");
         
         for(int i = 0; i < aboutMe.Length; i++)
             Console.Writeline(aboutMe[i]);
