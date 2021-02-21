@@ -5,12 +5,11 @@ public class Portfolio
 {
     private static string[] knownLanguages = new[] {
         "C#", "C++", "Java", "PHP", "SQL"
-    }
+    };
 
     private static string[] myTools = new[] {
         "VSC", "VS2019", "IntelliJ" ,"Firefox"
-    }
-
+    };
     private static string[] aboutMe = new[] {
         "Hi, Im Damian also known as L0um15",
         "I am in the 4th grade of IT technical college \n",
@@ -22,7 +21,7 @@ public class Portfolio
         " - 🔓 I Enjoy contributing to open-source projects.",
         " - 😊 I must say that im a Linux Enthusiast."
 
-    }
+    };
 
     public static void main(String[] args)
     {
