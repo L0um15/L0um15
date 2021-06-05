@@ -1,64 +1,81 @@
-<img width=100% style="border-radius: 8px;" src="images/1.gif" />
-
-```csharp
-public class Portfolio
-{
-    private static string[] knownLanguages = new[] {
-        "C#", "C++", "Java", "PHP", "SQL"
-    };
-
-    private static string[] myTools = new[] {
-        "VSC", "VS2019", "IntelliJ" ,"Firefox"
-    };
-    private static string[] aboutMe = new[] {
-        "Hi, Im Damian also known as L0um15",
-        "I am in the 4th grade of IT technical college \n",
-        " - 🎂 Im 19 years old",
-        " - 🗺️ My native language is Polish.",
-        " - 🎵 I Enjoy playing / listening music.",
-        " - 😱 I also love to watch horror movies. " +
-        "My favourite is Halloween and Nightmare on Elm Street.",
-        " - 🔓 I Enjoy contributing to open-source projects.",
-        " - 😊 I must say that im a Linux Enthusiast."
-
-    };
-
-    public static void main(String[] args)
-    {
-        GithubUser me = GetUser("https://github.com/L0um15");
-        
-        for(int i = 0; i < aboutMe.Length; i++)
-            Console.Writeline(aboutMe[i]);
-
-        for(int i = 0; i < knownLanguages.Length; i++){
-            Console.Write($"{knownLanguages[i]} ");
-        }
-
-        Console.Writeline();
-
-        for(int i = 0; i < myTools.Length; i++){
-            Console.Write($"{myTools[i]} ");
-        }
-
-
-        while(me.IsInspired()){
-            me.GoogleStuff();
-            me.ReadDocs();
-            me.WriteCode();
-            me.HaveFun();
-        }
-    }
-
-    public static GithubUser GetUser(string url)
-        => Github.Connect(url).GetInfo(); 
-
-}
-```
-<p align=center>
-<img alt="L0um15 github stats" src="https://github-readme-stats.vercel.app/api?username=L0um15&theme=radical&show_icons=true&hide_border=true&hide_title=true" />
+<p align="center">
+    <img src="svg/inspiration.svg" width="480px"/>
 </p>
 
+<h2 align="center">Hi There</h2>
+<p align="center">My name is Damian and welcome to my github profile</p>
 
+```zsh
+-> ~/Portfolio git:(main) > ./start.sh
+```
 
+<img align="left" src="svg/givingback.svg" height="222px"/>
 
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Damian
+    Lastname: Ziolo
+    Nickname: L0um15
+    Gender: Male
+    Age: 20
+    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
+    Languages: ["Polish"], ["English US"], ["English UK"]
+    Occupation: Poland
+```
 
+<br>
+
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/csharp.png" width="65px"/>
+                <br /> C#
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/java.png" width="65px"/>
+                <br /> Java
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/postgresql.png" width="65px"/>
+                <br /> Postgresql
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/sass.png" width="65px"/>
+                <br /> Sass
+            </td>
+        </tr>
+    </table>
+    <img src="svg/artificialintelligence.svg" height="225px"/>
+</div>
+
+<br>
+
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+
+```csharp
+    System Information
+    ------------------------------------------
+    OS: Windows 10
+    Kernel: 1909, Build ver. 18363.418
+    WM: Windows Explorer
+    Shell: powershell
+    Terminal: alacritty 0.7.2
+    Resolution: 1920x1080
+    Theme: Dark
+    CPU: Intel Core i5 2400 @ 2.4GHz
+    GPU: Nvidia GeForce GTX 1050
+    Memory:  3072MB / 12288MB
+
+```
